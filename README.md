@@ -1,16 +1,16 @@
 <!-- PROFILE HEADER -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+YOUR_NAME+%F0%9F%91%8B;Frontend+Developer+%7C+Angular+%7C+React;Building+clean+UI+and+scalable+apps;Always+learning+%26+shipping" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=900&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+SARFARAZ+%F0%9F%91%8B;MERN+STACK+Developer+%7C+NODE+%7C+React;Building+clean+UI+and+scalable+apps;Always+learning+%26+shipping" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
+  <a href="https://www.linkedin.com/in/sarfaraz-826412223/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-black?style=for-the-badge&logo=linkedin"/>
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:sarfaraz.f9460@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-black?style=for-the-badge&logo=gmail"/>
   </a>
-  <a href="https://YOUR_PORTFOLIO_LINK">
+  <a href="https://sarfaraz.qumash.in">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel"/>
   </a>
 </p>
@@ -18,7 +18,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 💼 Frontend Developer (Angular / React)
+- 💼 Frontend Developer (Node / React)
 - 🚀 Interested in UI/UX + performance
 - 🧠 Currently learning: Next.js + advanced state management
 - 📍 Location: India
@@ -27,7 +27,6 @@
 
 ## 🧰 Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=angular"/>
   <img src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=react"/>
   <img src="https://img.shields.io/badge/TypeScript-black?style=for-the-badge&logo=typescript"/>
   <img src="https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript"/>
@@ -41,12 +40,12 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true&count_private=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=itrsarfaraz&show_icons=true&hide_title=true&count_private=true" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=itrsarfaraz" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itrsarfaraz&layout=compact" />
 </p>
 
 ---
